@@ -1,4 +1,4 @@
-#Analysis of Fuel Consumption Ratings and Carbon Dioxide Emissions for Light-Duty Vehicles in Canada
+# Analysis of Fuel Consumption Ratings and Carbon Dioxide Emissions for Light-Duty Vehicles in Canada
 
 This project focused on analyzing a dataset containing model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles sold in Canada. The goal was to gain insights into the fuel efficiency and environmental impact of these vehicles and provide a basis for comparing different models across various model years.
 
